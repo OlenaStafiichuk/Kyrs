@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Content\apple.png</Source>
+      <Name>Content\apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\apple.xnb</Output>
+      <Time>2014-03-05T21:17:40.9808576+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\body.png</Source>
+      <Name>Content\body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\body.xnb</Output>
+      <Time>2014-03-24T23:42:19.2353444+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\head.png</Source>
+      <Name>Content\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\head.xnb</Output>
+      <Time>2014-03-24T23:44:08.8106117+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\xvist.png</Source>
+      <Name>Content\xvist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\xvist.xnb</Output>
+      <Time>2014-03-24T23:43:05.788007+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\font.spritefont</Source>
+      <Name>Content\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\font.xnb</Output>
+      <Time>2014-03-17T22:37:25.3594168+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\font2.spritefont</Source>
+      <Name>Content\font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\font2.xnb</Output>
+      <Time>2014-03-17T23:00:51.9098669+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\rectangle.png</Source>
+      <Name>Content\rectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\rectangle.xnb</Output>
+      <Time>2014-03-24T20:56:14.6744041+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\пари\2 курс\Курсова робота\Snake\Snake\SnakeContent\</RootDirectory>
+      <LoggerRootDirectory>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\пари\2 курс\Курсова робота\Snake\Snake\SnakeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-03T18:47:57.9408762+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

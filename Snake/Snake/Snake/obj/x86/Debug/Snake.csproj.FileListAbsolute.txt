@@ -1,0 +1,14 @@
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Snake.exe
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Snake.pdb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\obj\x86\Debug\Snake.exe
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\obj\x86\Debug\Snake.pdb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\apple.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\body.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\head.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\xvist.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\font.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\font2.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\rectangle.xnb
+E:\пари\2 курс\Курсова робота\Snake\Snake\Snake\bin\x86\Debug\Content\Content\record.txt
